@@ -5,6 +5,8 @@ This library contains various utility functions/classes to support std::vector 
 
 See demo and usage near the end of the source file.
 
+https://kyaw.xyz/2017/12/18/library-to-enhance-cpp-built-in-vector-class
+
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
